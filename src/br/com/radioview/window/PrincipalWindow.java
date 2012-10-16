@@ -214,7 +214,6 @@ public class PrincipalWindow extends JFrame implements RadioWindow{
 
     private JTree getThrees() {
     	DefaultMutableTreeNode node = new DefaultMutableTreeNode();
-    	node.add();
 		return null;
 	}
 
